@@ -92,3 +92,5 @@ def on_send():
     add_message("assistant", bot_msg)
 
 app.mainloop()
+
+#made by Vortex/Kritik
