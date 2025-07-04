@@ -89,7 +89,6 @@ ai-chat-app/
 │   └── bot_avatar.png
 ├── main.py                # Main Python file with UI + logic
 ├── README.md              # Project overview and guide
-└── .gitignore             # Ignore pycache, build folders, etc.
 ```
 
 ## 📦 Create Executable (EXE)
